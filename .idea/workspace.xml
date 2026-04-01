@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/02_Prediction_of_delays_Supply_Chain/data/DataCoSupplyChainDataset.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_Prediction_of_delays_Supply_Chain/data/DescriptionDataCoSupplyChain.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_Prediction_of_delays_Supply_Chain/data/tokenized_access_logs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <workItem from="1774770317810" duration="1114000" />
       <workItem from="1774873975573" duration="841000" />
       <workItem from="1774875654738" duration="371000" />
-      <workItem from="1774876508636" duration="22367000" />
+      <workItem from="1774876508636" duration="22388000" />
     </task>
     <task id="LOCAL-00001" summary="Add the Delivery delay prediction model">
       <option name="closed" value="true" />
@@ -125,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775037685788</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add the mian Raedme file">
+      <option name="closed" value="true" />
+      <created>1775037728119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775037728119</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
