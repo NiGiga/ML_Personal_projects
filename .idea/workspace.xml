@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa78b19-13cc-451e-82d1-0123cae07eb3" name="Changes" comment="Add the Raedme files">
+    <list default="true" id="7fa78b19-13cc-451e-82d1-0123cae07eb3" name="Changes" comment="Add the mian Raedme file">
+      <change afterPath="$PROJECT_DIR$/02_Prediction_of_delays_Supply_Chain/data/DataCoSupplyChainDataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Prediction_of_delays_Supply_Chain/data/DescriptionDataCoSupplyChain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Prediction_of_delays_Supply_Chain/data/tokenized_access_logs.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +99,7 @@
       <workItem from="1774770317810" duration="1114000" />
       <workItem from="1774873975573" duration="841000" />
       <workItem from="1774875654738" duration="371000" />
-      <workItem from="1774876508636" duration="22187000" />
+      <workItem from="1774876508636" duration="22367000" />
     </task>
     <task id="LOCAL-00001" summary="Add the Delivery delay prediction model">
       <option name="closed" value="true" />
@@ -114,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775037285079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add the mian Raedme file">
+      <option name="closed" value="true" />
+      <created>1775037685788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775037685788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add the Delivery delay prediction model" />
     <MESSAGE value="Add the Raedme files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the Raedme files" />
+    <MESSAGE value="Add the mian Raedme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the mian Raedme file" />
   </component>
 </project>

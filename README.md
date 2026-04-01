@@ -25,7 +25,6 @@ Projects focused on teaching machines to interpret, process, and classify unstru
 ---
 
 ## 🛠 Core Tech Stack
-
 Across the various projects in this repository, you will find implementations utilizing:
 
 * **Languages:** Python
